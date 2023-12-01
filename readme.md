@@ -6,7 +6,6 @@
         This software is designed to configure network devices using <span color="blue">Ansible</span><br>
         For now it works in a very simple way, but I plan to improve security and new features.<br>
         For more information, diagrams and project architecture, see our documentation.<br>
-        Project made together with the student Alexandre Douglas https://github.com/AleDouglas<br>
     </i><br>
     Be free to <a href="https://github.com/Kekinho/InfraSetup/blob/master/CONTRIBUTING.md">collaborate</a>!
 </p>
