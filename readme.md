@@ -7,7 +7,6 @@
         For now it works in a very simple way, but I plan to improve security and new features.<br>
         For more information, diagrams and project architecture, see our documentation.<br>
     </i><br>
-    Be free to <a href="https://github.com/Kekinho/InfraSetup/blob/master/CONTRIBUTING.md">collaborate</a>!
 </p>
 
 ## Table of Contents
